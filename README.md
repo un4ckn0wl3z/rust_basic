@@ -1,1 +1,1 @@
-"# rust_basic" 
+# rust_basic
