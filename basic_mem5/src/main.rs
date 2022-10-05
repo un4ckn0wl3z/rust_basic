@@ -5,6 +5,9 @@ fn main() {
     ex4_1();
     println!();
     println!();
+
+    let name = "Anuwat";
+    let name2 = String::from("Anuwat");
 }
 
 fn ex4_1(){
